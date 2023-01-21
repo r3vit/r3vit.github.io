@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on r3vit Personal Website</title>
-    <link>https://r3vit.github.io/tags/</link>
+    <link>http://r3v.it/tags/</link>
     <description>Recent content in Tags on r3vit Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://r3vit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://r3v.it/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
