@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://r3vit.github.io/posts/pause/</loc>
-    <lastmod>2023-01-27T05:12:37+02:00</lastmod>
-  </url><url>
     <loc>https://r3vit.github.io/posts/</loc>
-    <lastmod>2023-01-27T05:12:37+02:00</lastmod>
+    <lastmod>2023-02-10T12:01:02+02:00</lastmod>
   </url><url>
     <loc>https://r3vit.github.io/</loc>
+    <lastmod>2023-02-10T12:01:02+02:00</lastmod>
+  </url><url>
+    <loc>https://r3vit.github.io/posts/sugar-stained-glass/</loc>
+    <lastmod>2023-02-10T12:01:02+02:00</lastmod>
+  </url><url>
+    <loc>https://r3vit.github.io/posts/pause/</loc>
     <lastmod>2023-01-27T05:12:37+02:00</lastmod>
   </url><url>
     <loc>https://r3vit.github.io/posts/ethic-problems-in-generative-ai/</loc>
