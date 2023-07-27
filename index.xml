@@ -6,11 +6,34 @@
     <description>Recent content on r3vit Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2023 12:01:02 +0200</lastBuildDate><atom:link href="https://r3vit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jul 2023 18:01:42 +0200</lastBuildDate><atom:link href="https://r3vit.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Glass Week 2023 Map</title>
+      <link>https://r3vit.github.io/posts/glass-week-2023-map/</link>
+      <pubDate>Wed, 26 Jul 2023 18:01:42 +0200</pubDate>
+      
+      <guid>https://r3vit.github.io/posts/glass-week-2023-map/</guid>
+      <description>Glass Week 2023 From 2017 onwards, Venice, the illustrious city of Italy renowned for over a millennium for its beautiful art of glassmaking, has been host to an annual international celebration known as &amp;ldquo;The Venice Glass Week.&amp;rdquo;
+This festival was founded with a noble purpose: to commemorate, uphold, and propagate the cherished tradition of glass craftsmanship, which has not only manifested as an artistic expression but has also played a pivotal role in the economic fabric of city.</description>
+    </item>
+    
+    <item>
+      <title>Pause</title>
+      <link>https://r3vit.github.io/posts/pause/</link>
+      <pubDate>Fri, 10 Feb 2023 05:12:37 +0200</pubDate>
+      
+      <guid>https://r3vit.github.io/posts/pause/</guid>
+      <description>Pause One post per week.
+Exploring new things (AI), funny things (card and game generation), serious things (software architecture) and things I recently falled in love (glass).
+Good intentions for the new year lasted 3 weeks :)
+This post it&amp;rsquo;s more like an apology than a real update.
+People First Something that I wrote (and how I wrote it) hurt people that I care a lot about. I removed the posts for now.</description>
+    </item>
+    
     <item>
       <title>Sugar Stained Glass</title>
       <link>https://r3vit.github.io/posts/sugar-stained-glass/</link>
-      <pubDate>Fri, 10 Feb 2023 12:01:02 +0200</pubDate>
+      <pubDate>Fri, 27 Jan 2023 12:01:02 +0200</pubDate>
       
       <guid>https://r3vit.github.io/posts/sugar-stained-glass/</guid>
       <description>Sugar Stained Glass Kitchen experiments are a great way to tap into your inner scientist.
@@ -18,29 +41,6 @@ One particularly fascinating experiment is creating fake glass using sugar.
 What happen when you want to mix two complete different worlds like cooking and glass making?
 The answer is: something sweet and imperfect, like all the good human things in this world!
 The goal is not to create some &amp;ldquo;fake glass pieces for halloween cupcakes&amp;rdquo; but trying to recreate some dust-catching stained glass projects in the baking world.</description>
-    </item>
-    
-    <item>
-      <title>Pause</title>
-      <link>https://r3vit.github.io/posts/pause/</link>
-      <pubDate>Fri, 27 Jan 2023 05:12:37 +0200</pubDate>
-      
-      <guid>https://r3vit.github.io/posts/pause/</guid>
-      <description>Pause One post per week.
-Exploring new things (AI), funny things (card and game generation), serious things (software archiecture) and things I recently falled in love (glass).
-Good intentions for the new year lasted 3 weeks :)
-This post it&amp;rsquo;s more like an apology than a real update.
-People First Something that I wrote (and how I wrote it) hurted people that I care a lot about. I removed the posts for now.</description>
-    </item>
-    
-    <item>
-      <title>Ethic problems in generative AI</title>
-      <link>https://r3vit.github.io/posts/ethic-problems-in-generative-ai/</link>
-      <pubDate>Tue, 24 Jan 2023 06:12:19 +0200</pubDate>
-      
-      <guid>https://r3vit.github.io/posts/ethic-problems-in-generative-ai/</guid>
-      <description>DRAFT just for review :) Ethic problems in generative AI Disclaimer: these are free thoughts and questions about the ethics of generative AI. Feel free to be be in disagreement with that and speak about it with your friends, it&amp;rsquo;s the only way to improve the discussion about this topic!
-What is ethics? The difference between good and bad, Lexica.art Ethics is the branch of philosophy that deals with moral principles and values.</description>
     </item>
     
     <item>
@@ -68,7 +68,7 @@ I&amp;rsquo;m an Æternal student.
 r3vit is the nickname used by a passionate Gopher, developer and
 technology experimentalist called Marco.
 From technologies to programming languages, from failures to successes, I love
-working on projects that bring solutions for small and big problems.
+working on projects that bring solutions to small and big problems.
 I studied Computer Science and right now trying to work on meaningfull R&amp;amp;D projects for a company called Alkemy.
 I believe in Open Source and try to follow the motto: &amp;ldquo;Changing the world, one bit at a time&amp;rdquo;.</description>
     </item>
